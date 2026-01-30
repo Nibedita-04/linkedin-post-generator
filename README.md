@@ -39,6 +39,10 @@ This approach improves coherence and quality compared to single-prompt AI genera
 
 ---
 
+## Project Workflow
+![alt text](workflow.png)
+
+
 ## Project Structure
 
 ```
